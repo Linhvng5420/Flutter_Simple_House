@@ -262,30 +262,30 @@ assets/
 
 ## Screenshots
 <p align="center">
-<img src=.images\p-01.png width="200" style="border: 2px solid black">
-<img src=.images\p-02.png width="200" style="border: 2px solid black">
-<img src=.images\p-03.png width="200" style="border: 2px solid black">
+<img src=images\p-01.png width="200" style="border: 2px solid black">
+<img src=images\p-02.png width="200" style="border: 2px solid black">
+<img src=images\p-03.png width="200" style="border: 2px solid black">
 </p>
 <p align="center">
-<img src=.images\p-04.png width="200" style="border: 2px solid black">
-<img src=.images\p-05.png width="200" style="border: 2px solid black">
-<img src=.images\p-06.png width="200" style="border: 2px solid black">
+<img src=images\p-04.png width="200" style="border: 2px solid black">
+<img src=images\p-05.png width="200" style="border: 2px solid black">
+<img src=images\p-06.png width="200" style="border: 2px solid black">
 </p>
 <p align="center">
-<img src=.images\p-07.png width="200" style="border: 2px solid black">
-<img src=.images\p-08.png width="200" style="border: 2px solid black">
-<img src=.images\p-09.png width="200" style="border: 2px solid black">
+<img src=images\p-07.png width="200" style="border: 2px solid black">
+<img src=images\p-08.png width="200" style="border: 2px solid black">
+<img src=images\p-09.png width="200" style="border: 2px solid black">
 </p>
 <p align="center">
-<img src=.images\p-10.png width="200" style="border: 2px solid black">
-<img src=.images\p-11.png width="200" style="border: 2px solid black">
-<img src=.images\p-12.png width="200" style="border: 2px solid black">
+<img src=images\p-10.png width="200" style="border: 2px solid black">
+<img src=images\p-11.png width="200" style="border: 2px solid black">
+<img src=images\p-12.png width="200" style="border: 2px solid black">
 </p>
 <p align="center">
-<img src=.images\p-14.png width="200" style="border: 2px solid black"></p>
+<img src=images\p-14.png width="200" style="border: 2px solid black"></p>
 </p>
 </br>
 
-<img src=.images\p-l-01.png width="500" style="border: 2px solid black"></p>
-<img src=.images\p-l-02.png width="500" style="border: 2px solid black"></p>
-<img src=.images\p-l-03.png width="500" style="border: 2px solid black"></p>
+<img src=images\p-l-01.png width="500" style="border: 2px solid black"></p>
+<img src=images\p-l-02.png width="500" style="border: 2px solid black"></p>
+<img src=images\p-l-03.png width="500" style="border: 2px solid black"></p>
